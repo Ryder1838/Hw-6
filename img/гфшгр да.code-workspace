@@ -1,0 +1,25 @@
+{
+	"folders": [
+		{
+			"path": "../гфшгр да"
+		},
+		{
+			"path": "../homwork/Нова"
+		},
+		{
+			"path": "../SS+"
+		},
+		{
+			"path": "../Rad"
+		},
+		{
+			"path": "."
+		},
+		{
+			"path": "img"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "Нова"
+	}
+}
